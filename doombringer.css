@@ -5,5 +5,8 @@ body{
     image-rendering: auto;
 }
 table{
+    margin: auto;
+}
+li{
     text-align: center;
 }
